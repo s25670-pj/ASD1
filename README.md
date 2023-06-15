@@ -1,6 +1,7 @@
 Podsumowanie na podstawie wyników czasowych dla różnych algorytmów sortowania (Quicksort, Heapsort, Shellsort) na danych wejściowych w różnych konfiguracjach:
 
-![image](https://github.com/s25670-pj/ASD1/assets/92204700/ddd7d94b-79b6-482c-9f36-f1877d7a186f)
+![image](https://github.com/s25670-pj/ASD1/assets/92204700/4223a8b2-0e6e-4c1b-875e-e589b4f5b27f)
+
 
 
 Dla danych losowych:
