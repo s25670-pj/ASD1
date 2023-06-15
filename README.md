@@ -1,9 +1,7 @@
 Podsumowanie na podstawie wyników czasowych dla różnych algorytmów sortowania (Quicksort, Heapsort, Shellsort) na danych wejściowych w różnych konfiguracjach:
 
-Algorytm	Losowe	Posortowane	Posortowane (malejąco)
-Quicksort	1.1102912s	9e-07s	3.1418522s
-Heapsort	2.473177s	2.2232682s	2.1737259s
-Shellsort	2.250248s	0.6898446s	0.7114681s
+![image](https://github.com/s25670-pj/ASD1/assets/92204700/ddd7d94b-79b6-482c-9f36-f1877d7a186f)
+
 
 Dla danych losowych:
 Najlepszy czas sortowania: Quicksort (1.1102912s)
